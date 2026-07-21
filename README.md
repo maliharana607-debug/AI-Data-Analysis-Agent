@@ -2,7 +2,6 @@
 
 An AI-powered data analysis assistant that enables users to upload CSV datasets, ask questions in natural language, and receive AI-generated insights, summaries, and recommendations using the Claude API.
 
----
 
 ## ✨ Features
 
@@ -13,7 +12,6 @@ An AI-powered data analysis assistant that enables users to upload CSV datasets,
 - Interactive Streamlit interface
 - Claude API integration
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +20,6 @@ An AI-powered data analysis assistant that enables users to upload CSV datasets,
 - Pandas
 - Anthropic Claude API
 
----
 
 ## 🚀 Installation
 
@@ -36,7 +33,6 @@ pip install -r requirements.txt
 streamlit run src/streamlit_analyzer.py
 ```
 
----
 
 ## 📌 Usage
 
@@ -46,7 +42,6 @@ streamlit run src/streamlit_analyzer.py
 4. Ask questions about your data.
 5. View AI-generated insights and summaries.
 
----
 
 ## 📂 Project Structure
 
@@ -65,7 +60,6 @@ Data-Analysis-Agent/
 └── .gitignore
 ```
 
----
 
 ## 🔄 Workflow
 
@@ -88,7 +82,6 @@ Generate Insights
 Display Results
 ```
 
----
 
 ## 🚀 Future Improvements
 
@@ -98,7 +91,6 @@ Display Results
 - Multi-file analysis
 - Cloud deployment
 
----
 
 ## 📄 License
 
